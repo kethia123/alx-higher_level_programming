@@ -1,0 +1,1 @@
+This directory starts the higher level with a simple hello world.
